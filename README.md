@@ -10,3 +10,4 @@ As of today, i.e., December 11, 2022, following algorithms are present:
 
 - Linear Regression
 - Logistic Regression (Classification Problems)
+- Gradient Descent Algorithm
